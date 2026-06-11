@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "749115614887",
+    "project_id": "aurea-3898f",
+    "storage_bucket": "aurea-3898f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749115614887:android:bc3b9f7883acf6fd295d82",
+        "android_client_info": {
+          "package_name": "com.aurae.aurae_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6y5hMmBgS_5D3xJ1k3UpUlB4rd1KBbzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
